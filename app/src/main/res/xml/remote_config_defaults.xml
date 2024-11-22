@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_theme">light</string>
+    <string name="value_1">true</string>
+    <string name="value_2">Roboto</string>
+    <string name="value_3">3</string>
+    <string name="value_4">3</string>
+    <string name="value_5">3</string>
+</resources>
